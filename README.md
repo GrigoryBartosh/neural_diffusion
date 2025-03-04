@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 ## Getting started
 
-The best way to understand our method is to look at the notebook which contains a simple implementation of the NFDM model on a toy dataset.
+The best way to understand our method is to look at [the notebook](https://github.com/GrigoryBartosh/neural_diffusion/blob/main/nfdm_from_scratch.ipynb) which contains a simple implementation of the NFDM model on a toy dataset.
 
 ## Citation
 
