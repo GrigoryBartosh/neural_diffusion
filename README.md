@@ -28,12 +28,12 @@ The best way to understand our method is to look at [the notebook](https://githu
 If you find our work useful, please consider citing our paper:
 
 ```bibtex
-@article{bartosh2025neural,
+@article{bartosh2024neural,
   title={Neural flow diffusion models: Learnable forward process for improved diffusion modelling},
   author={Bartosh, Grigory and Vetrov, Dmitry P and Andersson Naesseth, Christian},
   journal={Advances in Neural Information Processing Systems},
   volume={37},
   pages={73952--73985},
-  year={2025}
+  year={2024}
 }
 ```
